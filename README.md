@@ -1,10 +1,9 @@
 # 🌿 Neurodivergent Somatic Healing & ADHD Focus Toolkit
 
-[![Upwork Profile](https://img.shields.io/badge/Upwork-Consulting_($65/hr)-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017c67768fc98616c6)
-[![Fiverr Services](https://img.shields.io/badge/Fiverr-Order_Custom_Gig-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/oyelakintosin)
-[![Buy on Selar](https://img.shields.io/badge/Instant_Download-Selar_(₦35k)-00C853?style=for-the-badge&logo=shopify)](https://selar.com/wce1n77927)
-[![WhatsApp Support](https://img.shields.io/badge/WhatsApp-Direct_Inquiry-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348022791227)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Evidence-Based](https://img.shields.io/badge/Clinical_Literature-Polyvagal_Theory-6366F1?style=for-the-badge)](https://www.bethelmindanalytics.com/blog)
+[![Buy on Selar](https://img.shields.io/badge/Instant_Download-Selar_(₦35k)-00C853?style=for-the-badge&logo=shopify)](https://selar.com/wce1n77927)
+[![USD Checkout](https://img.shields.io/badge/USD_Checkout-Whop_($47)-6366F1?style=for-the-badge)](https://whop.com/checkout/plan_TQfY31eXALrPi)
 
 > **Evidence-Based Autonomic Nervous System Regulation & Executive Function Scaffolding**  
 > Grounded in the clinical research of Dr. Stephen Porges (Polyvagal Theory) and Dr. Russell Barkley.
